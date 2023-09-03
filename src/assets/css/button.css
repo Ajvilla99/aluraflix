@@ -1,0 +1,22 @@
+.button-after {
+    position: relative;
+    transition: all .5s ease;
+    z-index: 1;
+}
+
+.button-after::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0%;
+    bottom: 0;
+    right: 0%;
+    background-color: #1258b3;
+    z-index: -1;
+    transition: 1s ease;
+    clip-path: circle(0% at 1% 51%);
+}
+
+.button-after:hover::before {
+    clip-path: circle(200% at 1% 51%)
+}
