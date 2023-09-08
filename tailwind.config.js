@@ -7,6 +7,8 @@ module.exports = {
       'primary': '#2A7AE4',
       'white': '#fefefe',
       'front':'#6BD1FF',
+      'bg-primary':'#030a1a',
+      'warning':'#E53935',
     },
     fontFamily: {
       'roboto': ["Roboto", "sans-serif"]
