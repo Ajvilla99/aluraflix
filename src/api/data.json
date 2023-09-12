@@ -26,20 +26,110 @@
     {
       "id": "9aee9408-4d94-4e99-a2cc-6bf810bc99a9",
       "title": "Cuándo usar let, var y const",
-      "urlVideo": "https://www.youtube.com/watch?v=PztCEdIJITY",
+      "urlVideo": "https://www.youtube.com/embed/PztCEdIJITY?si=kJ9_ooqJJ4cdDuEi",
       "urlImage": "https://img.youtube.com/vi/PztCEdIJITY/maxresdefault.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure molestias necessitatibus eum rerum deserunt porro voluptates provident quo placeat quibusdam.",
       "category": "c516749d-fdc7-46b5-af65-ee1c991af5c5",
       "author": "Bárbara dos Santos"
     },
     {
-      "id": "9aee9408-4d94-4e99-a2cc-6bf810bc99a9",
-      "title": "Cuándo usar let, var y const",
-      "urlVideo": "https://www.youtube.com/watch?v=PztCEdIJITY",
-      "urlImage": "https://img.youtube.com/vi/PztCEdIJITY/maxresdefault.jpg",
+      "id": "f05c19c1-ba51-472c-a84c-015578b4e42c",
+      "title": "¿ Qué es JavaScript ?",
+      "urlVideo": "https://www.youtube.com/embed/GJfOSoaXk4s?si=cpmzy0hq6QPYUQlb",
+      "urlImage": "https://img.youtube.com/vi/GJfOSoaXk4s/maxresdefault.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure molestias necessitatibus eum rerum deserunt porro voluptates provident quo placeat quibusdam.",
       "category": "c516749d-fdc7-46b5-af65-ee1c991af5c5",
-      "author": "Bárbara dos Santos"
+      "author": "Gabriela Aguiar"
+    },
+    {
+      "id": "d9c667c9-4768-4eea-b287-861bc0020049",
+      "title": "Equipo Front End",
+      "urlVideo": "https://www.youtube.com/embed/rpvrLaBQwgg?si=qKJ30hNwYQokCyhL",
+      "urlImage": "https://img.youtube.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure molestias necessitatibus eum rerum deserunt porro voluptates provident quo placeat quibusdam.",
+      "category": "c516749d-fdc7-46b5-af65-ee1c991af5c5",
+      "author": "Gabriela Aguiar"
+    },
+    {
+      "id": "a23a327f-3e2c-4277-8d06-ccf8952e0f58",
+      "title": "Aprendiendo a usar figma",
+      "urlVideo": "https://www.youtube.com/embed/UuAX5azcvDQ?si=pDEAxewjoehFcxP1",
+      "urlImage": "https://img.youtube.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure molestias necessitatibus eum rerum deserunt porro voluptates provident quo placeat quibusdam.",
+      "category": "c516749d-fdc7-46b5-af65-ee1c991af5c5",
+      "author": "Gabriela Aguiar"
+    },
+    {
+      "id": "1405dcc6-10d2-41bc-a7e7-3cc4877d5627",
+      "title": "Spring Framework ¿ Qué es ?",
+      "urlVideo": "https://www.youtube.com/embed/t-iqt1b2qqk?si=_MtfIfXcW0AanUB9",
+      "urlImage": "https://img.youtube.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure molestias necessitatibus eum rerum deserunt porro voluptates provident quo placeat quibusdam.",
+      "category": "74b972cf-dcc4-4977-9f7d-41fb792f9958",
+      "author": "Vinicius Borges"
+    },
+    {
+      "id": "f778a580-d189-472b-b548-6e2a336d5157",
+      "title": "¿Qué es SQL y NoSQL?",
+      "urlVideo": "https://www.youtube.com/embed/cLLKVd5CNLc?si=sDVkik0SmmJ2QXPI",
+      "urlImage": "https://img.youtube.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure molestias necessitatibus eum rerum deserunt porro voluptates provident quo placeat quibusdam.",
+      "category": "74b972cf-dcc4-4977-9f7d-41fb792f9958",
+      "author": "Alura Latam"
+    },
+    {
+      "id": "ffb00bdf-eec4-44d3-92ea-fc66669e7777",
+      "title": "Simplificando tu código en Java: Conoce los enum",
+      "urlVideo": "https://www.youtube.com/embed/EoPvlE85XAQ?si=5-fRHfL5tOGX4fSu",
+      "urlImage": "https://img.youtube.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure molestias necessitatibus eum rerum deserunt porro voluptates provident quo placeat quibusdam.",
+      "category": "74b972cf-dcc4-4977-9f7d-41fb792f9958",
+      "author": "Génesys Rondón"
+    },
+    {
+      "id": "3578f1bf-d6db-4e1f-af45-13083bb57a48",
+      "title": "Explorando el poder del Back-End en el Desarrollo Web",
+      "urlVideo": "https://www.youtube.com/embed/Z024LSCMqFk?si=A54J_kRHjkCJst2c",
+      "urlImage": "https://img.youtube.com/vi/Z024LSCMqFk/maxresdefault.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure molestias necessitatibus eum rerum deserunt porro voluptates provident quo placeat quibusdam.",
+      "category": "74b972cf-dcc4-4977-9f7d-41fb792f9958",
+      "author": "Alura Latam"
+    },
+    {
+      "id": "ec381d11-d50d-40ad-8c83-20e32258bbbb",
+      "title": "¿Qué son las Soft Skills?",
+      "urlVideo": "https://www.youtube.com/embed/vhwspfvI52k?si=4h6cjONJD_Q_NPNI",
+      "urlImage": "https://img.youtube.com/vi/vhwspfvI52k/maxresdefault.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure molestias necessitatibus eum rerum deserunt porro voluptates provident quo placeat quibusdam.",
+      "category": "d55f12e5-66f3-49bc-8f39-b049104fc580",
+      "author": "Alura Latam"
+    },
+    {
+      "id": "ababbc73-974a-48f1-9d36-b2a7d258df6d",
+      "title": "Las 7 softskills más deseadas",
+      "urlVideo": "https://www.youtube.com/embed/YhR7Zp8NUzE?si=qb6XJIdaIFlU2Q7x",
+      "urlImage": "https://img.youtube.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure molestias necessitatibus eum rerum deserunt porro voluptates provident quo placeat quibusdam.",
+      "category": "d55f12e5-66f3-49bc-8f39-b049104fc580",
+      "author": "Gabriela Aguiar"
+    },
+    {
+      "id": "97324ca5-9557-4eef-8ce1-7d70871340af",
+      "title": "¿ Qué son las metodologias ágiles ?",
+      "urlVideo": "https://www.youtube.com/embed/6N3OkLCfK-0?si=c2zNBi1ho5VoSDuC",
+      "urlImage": "https://img.youtube.com/vi/6N3OkLCfK-0/maxresdefault.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure molestias necessitatibus eum rerum deserunt porro voluptates provident quo placeat quibusdam.",
+      "category": "d55f12e5-66f3-49bc-8f39-b049104fc580",
+      "author": "Alura Latam"
+    },
+    {
+      "id": "a7ff392c-cd2a-4b2f-9ac6-7bba4733b05e",
+      "title": "¿ Qué es la lógica de programación y cómo aplicarla ?",
+      "urlVideo": "https://www.youtube.com/embed/3W983Q2NzRI?si=q4QSjLeQ5OeylCLy",
+      "urlImage": "https://img.youtube.com/vi/6N3OkLCfK-0/maxresdefault.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure molestias necessitatibus eum rerum deserunt porro voluptates provident quo placeat quibusdam.",
+      "category": "d55f12e5-66f3-49bc-8f39-b049104fc580",
+      "author": "Alura Latam"
     }
   ]
 }

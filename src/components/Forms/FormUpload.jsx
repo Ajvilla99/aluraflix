@@ -15,11 +15,10 @@ const FormUpload = (props) => {
     const [ urlImage, setUrlImage ] = useState('')
     const [ description, setDescription ] = useState('')
     const [ author, setAuthor ] = useState('')
-    const [category, setCategory] = useState('');
-
+    const [ category, setCategory ] = useState('');
     const sendPostRequest = async (data) => {
       try {
-        const response = await axios.post('http://localhost:5000/uploads', data);
+        const response = await axios.post('https://json-alura-flix.vercel.app/uploads', data);
         console.log('Video creado:', response.data);
       } catch (error) {
         console.error('Error al crear el video:', error);
@@ -28,6 +27,7 @@ const FormUpload = (props) => {
 
     const submitHandler = (e) => {
       e.preventDefault();
+
       let data = {
         id: uuid(),
         title,

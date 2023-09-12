@@ -6,7 +6,7 @@ const Button = ({ text, color }) => {
 
   return (
     <div>
-        <button style={ bgButton }  className='bg-front h-[60px] text-white text-[35px] p-[14px] rounded-[4px] box-border'>
+        <button style={ bgButton }  className='h-[60px] text-white text-[35px] p-[14px] rounded-[2px] box-border max-[450px]:text-[24px] max-[450px]:max-w-[200px]'>
             { text }
         </button>
     </div>

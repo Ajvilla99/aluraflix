@@ -5,15 +5,7 @@ import { v4 as uuid } from 'uuid';
 
 const NewCategory = (props) => {
 
-  const [ category, setCategory ] = useState([
-    {
-      id: uuid(),
-      name: 'Lorem ipsum dolor sit amet.',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, harum',
-      color: '#00ff88',
-      code: '331233',
-    },
-  ])
+  const [ category, setCategory ] = useState([])
 
   const createCategory = (newCategory) => {
     setCategory([...category, {...newCategory, id: uuid()} ])

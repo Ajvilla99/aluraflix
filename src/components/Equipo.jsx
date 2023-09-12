@@ -16,9 +16,7 @@ const Equipo = ({ data, data2}) => {
             <div className='w-[80%] flex items-center justify-between overflow-hidden'>
               {
                 images.map((img, index) => (
-                <div className='max-w-[432px] max-h-[260px] border-white border-solid border-4 cursor-pointer mr-[20px]'
-                  key={index}
-                >
+                <div className='max-w-[432px] max-h-[260px] border-white border-solid border-4 cursor-pointer mr-[20px]' key={index}>
                   <button className='w-full h-full flex items-center justify-center content-center'>
                     <img className='' src={ img.img } alt={ name } />
                   </button>

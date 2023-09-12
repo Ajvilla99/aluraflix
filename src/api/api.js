@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiUrl = 'http://localhost:5000/categories';
+const apiUrl = 'https://json-alura-flix.vercel.app/categories';
 
 export const fetchCategories = async () => {
   try {
