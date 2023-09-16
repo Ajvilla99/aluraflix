@@ -48,7 +48,7 @@ const Home = () => {
         </section>
         <section className='w-full flex flex-col px-[10%]'>
         {categories.map((category, index) => (
-          <Categories dataCards={uploads.filter((upload) => upload.category === category.id)} onClick={handleCardSelect} data={category} key={index}/> ))}
+          <Categories dataCards={uploads.filter((upload) => upload.category === category.id)} onClick={handleCardSelect} data={category} key={index}/>))}
         </section>
         <Footer/> 
     </div>

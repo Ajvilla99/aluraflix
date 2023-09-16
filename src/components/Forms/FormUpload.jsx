@@ -148,7 +148,7 @@ const FormUpload = (props) => {
               warning={ 'El titulo debe tener minimo 5 caracteres.' }
               />
             <div className='w-[90%] flex justify-between max-[450px]:flex-col max-[450px]:gap-5'>
-              <div className='flex gap-10'>
+              <div className='flex gap-10 max-[750px]:gap-2'>
                 <ButtonForm text="Guardar" type='submit'/>
                 <ButtonForm text="Limpiar" onClick={resetForm} />
               </div>
