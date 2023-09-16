@@ -11,6 +11,7 @@ const Categories = (props) => {
     const card = props.dataCards
     const changeStyle = { borderColor: color }
 
+    //Configuracion responsive slider
     const breakpoints = {
       320: {
         slidesPerView: 1.1,
@@ -33,7 +34,6 @@ const Categories = (props) => {
         spaceBetween: 20,
       },
     }
-
 
   return (
     <section className='w-full flex flex-col items-center gap-4 py-5'>
