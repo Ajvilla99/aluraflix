@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/aluraflix/static/css/main.b068e6f8.css",
-    "main.js": "/aluraflix/static/js/main.955805e0.js",
+    "main.css": "/aluraflix/static/css/main.0e62131c.css",
+    "main.js": "/aluraflix/static/js/main.709521df.js",
     "static/js/787.a582c3f2.chunk.js": "/aluraflix/static/js/787.a582c3f2.chunk.js",
     "static/media/bg-section.png": "/aluraflix/static/media/bg-section.26274b8cb0fb4244286b.png",
     "static/media/logo-footer.png": "/aluraflix/static/media/logo-footer.6a97f1ba63c84df7f2e2.png",
     "index.html": "/aluraflix/index.html",
-    "main.b068e6f8.css.map": "/aluraflix/static/css/main.b068e6f8.css.map",
-    "main.955805e0.js.map": "/aluraflix/static/js/main.955805e0.js.map",
+    "main.0e62131c.css.map": "/aluraflix/static/css/main.0e62131c.css.map",
+    "main.709521df.js.map": "/aluraflix/static/js/main.709521df.js.map",
     "787.a582c3f2.chunk.js.map": "/aluraflix/static/js/787.a582c3f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b068e6f8.css",
-    "static/js/main.955805e0.js"
+    "static/css/main.0e62131c.css",
+    "static/js/main.709521df.js"
   ]
 }
