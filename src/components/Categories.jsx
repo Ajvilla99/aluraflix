@@ -18,7 +18,7 @@ const Categories = (props) => {
         spaceBetween: 20,
       },
       768: {
-        slidesPerView: 1,
+        slidesPerView: 1.4,
         spaceBetween: 20,
       },
       1024: {

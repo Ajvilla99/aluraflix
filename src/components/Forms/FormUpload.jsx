@@ -86,6 +86,7 @@ const FormUpload = (props) => {
       setUrlVideo({ value: '', valid: null});
       setUrlImage({ value: '', valid: null});
       setDescription({ value: '', valid: null});
+      setCategory({ value: '', valid: null})
       setAuthor({ value: '', valid: null});
       setPageTitle('nuevo video')
       setEditVideo(null);
